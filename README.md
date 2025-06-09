@@ -3,7 +3,7 @@ Hi 👋 i'm Julian Braun <img src="https://komarev.com/ghpvc/?username=matifange
 
 ## Full Stack Developer
 * 🌍  Based in United Kingdom
-* 🖥️  See my portfolio at [julianbraun.dev](https://braunjuliandev.vercel.app/)
+* 🖥️  See my portfolio at [julianbraun.dev](https://bjuliandev.web.app/)
 * 🤝  Open to collaborating on Interesting projects and full-time jobs
 
 <!-- <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
@@ -11,7 +11,7 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 /></a> -->
 
 ## ✉ For Coding Services SEND DM ✉
-You can contact me at [WhatsApp](+1) or [julianbraun7478@gmail.com](mailto:julianbraun7478@gmail.com)
+You can contact me at [WhatsApp](+1 (601) 381-6798) or [julianbraun7478@gmail.com](mailto:julianbraun7478@gmail.com)
 
 ### Skills
 <p align="left">
