@@ -1,4 +1,4 @@
-Hi 👋 i'm Julian Braun <img src="https://komarev.com/ghpvc/?username=julianbraun7478&color=brightgreen" alt="matifanger" /> 
+Hi 👋 i'm Julian Braun <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
 ==============================
 
 ## Full Stack Developer
