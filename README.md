@@ -13,7 +13,7 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 ## ✉ For Coding Services SEND DM ✉
 You can contact me at [WhatsApp](whatsapp:+16013816798) or [julianbraun7478@gmail.com](mailto:julianbraun7478@gmail.com)
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+### <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 <p align="left">
 • Programming Languages: JavaScript, TypeScript, PHP<br/>
 • Frontend: React.js Next.js Vue.js, Nuxt.js, Angular.js, Tailwind CSS,<br/>
