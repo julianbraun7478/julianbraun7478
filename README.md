@@ -11,7 +11,7 @@ src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the
 /></a> -->
 
 ## ✉ For Coding Services SEND DM ✉
-You can contact me at [WhatsApp](+16013816798) or [julianbraun7478@gmail.com](mailto:julianbraun7478@gmail.com)
+You can contact me at [WhatsApp](tel:+16013816798) or [julianbraun7478@gmail.com](mailto:julianbraun7478@gmail.com)
 
 ### Skills
 <p align="left">
