@@ -25,5 +25,6 @@ You can contact me at [WhatsApp](whatsapp:+16013816798) or [julianbraun7478@gmai
 </p>
 
 ### GitHub Stats
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=julianbraun7478&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
 <a href="http://www.github.com/julianbraun7478"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matifanger&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=julianbraun7478&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" />
