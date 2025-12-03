@@ -1,27 +1,24 @@
-Hi 👋 i'm Julian Braun <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
+Hi 👋 <img src="https://komarev.com/ghpvc/?username=matifanger&color=brightgreen" alt="matifanger" /> 
 ==============================
 
-## Full Stack Developer
-* 🌍  Based in United Kingdom
-* 🖥️  See my portfolio at [julianbraun.dev](https://bjuliandev.web.app/)
-* 🤝  Open to collaborating on Interesting projects and full-time jobs
+## Full-Stack Engineer & AI Specialist | Expert in React, Node.js, TypeScript, Python
 
 <!-- <a href="https://www.twitter.com/matifanger" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/matifanger?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a> -->
 
 ## ✉ For Coding Services SEND DM ✉
-You can contact me at [WhatsApp](whatsapp:+16013816798) or [julianbraun7478@gmail.com](mailto:julianbraun7478@gmail.com)
+You can contact me at [kkarkadiusz.tech.org@gmail.com](mailto:kkarkadiusz.tech.org@gmail.com)
 
 ### <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 <p align="left">
-• Programming Languages: JavaScript, TypeScript, PHP<br/>
+• Programming Languages: JavaScript, TypeScript, PHP, Python, Java<br/>
 • Frontend: React.js Next.js Vue.js, Nuxt.js, Angular.js, Tailwind CSS,<br/>
 • Backend: Nest.js, PHP, Symfony, Python, Node, Laravel<br/>
 • Mobile Development: iOS, Android, React Native, Mobile-First Principles<br/>
 • Databases: PostgreSQL, Firebase, MongoDB, MySql<br/>
 • Tools and Systems: Jira, Trello, Git, Docker, Linux<br/>
-• Roles: Frontend, Backend, Full-Stack<br/>
+• Roles: Frontend, Backend, Full-Stack, AI Engineer<br/>
 • Cloud & DevOps: AWS (Lambda, EC2, S3, RDS, API Gateway), GCP, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD<br/>
 • Testing & QA: Jest, Mocha, Cypress, Selenium, Postman, Unit & Integration Testing, TDD<br/>
 • Agile Practices: Scrum, Kanban, Jira, Confluence, Code Reviews, Mentorship<br/>
